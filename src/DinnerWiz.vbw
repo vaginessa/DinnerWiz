@@ -1,0 +1,9 @@
+frmMain = 35, 10, 865, 629, C, 61, 8, 601, 640, C
+Module = 38, 16, 843, 655, C
+xpIcon = 0, 0, 850, 450, C
+mdXpThemeSupport = 66, 87, 836, 708, C
+frmBrowser = 268, 27, 1038, 648, , 53, 145, 823, 766, C
+frmManage = 99, 17, 918, 653, C, 43, 45, 577, 580, C
+modGetWindowsVersion = 28, 124, 737, 745, C
+modGetSystemFolders = 132, 174, 841, 795, C
+CTooltip = 84, 51, 897, 831, C
